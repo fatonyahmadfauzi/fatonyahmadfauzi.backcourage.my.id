@@ -5,7 +5,7 @@ class Blog extends CI_Controller {
         $this->load->database(); // Initialize the database
         $this->load->library('session');
         $this->load->library('form_validation');
-        $this->load->model('model_auth'); // Pastikan model_auth telah dibuat dan dimuat
+        $this->load->model('Model_auth'); // Pastikan Model_auth telah dibuat dan dimuat
         $this->load->model('Product_model'); // Pastikan model_product telah dibuat dan dimuat
     }
 

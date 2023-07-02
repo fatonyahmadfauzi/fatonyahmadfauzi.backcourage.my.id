@@ -15,7 +15,7 @@ class Laporanexcel extends CI_Controller {
 		$sheet->setCellValue('C1', 'Alamat');
 		$sheet->setCellValue('D1', 'Tanggal Pemesanan');
 		$sheet->setCellValue('E1', 'Batas Pembayaran');
-		$data=$this->model_invoice->tampil_data();
+		$data=$this->Model_invoice->tampil_data();
 		$no = 1;
 		$x = 2;
 		foreach($data as $row)

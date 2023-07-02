@@ -4,7 +4,7 @@ Class Laporanpdf extends CI_Controller{
     function __construct() {
         parent::__construct();
         $this->load->library('pdf');
-        $this->load->model('model_invoice');
+        $this->load->model('Model_invoice');
     }
 
     function index(){
@@ -25,7 +25,7 @@ Class Laporanpdf extends CI_Controller{
         $pdf->Cell(40,6,'Tanggal Pemesanan',1,0);
         $pdf->Cell(40,6,'Batas Pembayaran',1,1);
         $pdf->SetFont('Arial','',10);
-        $data=$this->model_invoice->tampil_data();
+        $data=$this->Model_invoice->tampil_data();
         foreach ($data as $row){
         $pdf->Cell(40,6,$row->nama,1,0);
         $pdf->Cell(70,6,$row->alamat,1,0);

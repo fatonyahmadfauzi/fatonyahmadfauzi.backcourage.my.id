@@ -1,5 +1,5 @@
 <?php 
-class account_model extends CI_Model
+class Account_model extends CI_Model
 {
     public function get_user_info($user_id)
     {

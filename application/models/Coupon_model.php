@@ -1,5 +1,5 @@
 <?php
-class coupon_model extends CI_Model {
+class Coupon_model extends CI_Model {
     public function get_coupons() {
         $result = $this->db->get('coupons');
         return $result->result_array();

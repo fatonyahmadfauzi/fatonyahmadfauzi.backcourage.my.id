@@ -1,5 +1,5 @@
 <?php
-class model_auth extends CI_Model
+class Model_auth extends CI_Model
 {
     public Function cek_login()
     {

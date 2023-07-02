@@ -7,7 +7,7 @@ class Auth extends CI_Controller
         // Load library atau helper yang diperlukan
         $this->load->library('session');
         $this->load->library('form_validation');
-        $this->load->model('model_auth'); // Pastikan model_auth telah dibuat dan dimuat
+        $this->load->model('Model_auth'); // Pastikan Model_auth telah dibuat dan dimuat
     }
 
     public function login()
@@ -21,7 +21,7 @@ class Auth extends CI_Controller
             $this->load->view('form_login');
             $this->load->view('template/footer');
         } else {
-            $auth = $this->model_auth->cek_login();
+            $auth = $this->Model_auth->cek_login();
             if ($auth == FALSE) {
                 $this->session->set_flashdata('pesan', '<div class="alert alert-warning alert-dismissible fade show" role="alert">Email atau Password Anda Salah<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>');
                 redirect('auth/login');

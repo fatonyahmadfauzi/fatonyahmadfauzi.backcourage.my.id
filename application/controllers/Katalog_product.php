@@ -6,7 +6,7 @@ class Katalog_product extends CI_Controller{
     { 
         parent::__construct();
         $this->load->helper('url', 'form');
-        $this->load->model('product_model');
+        $this->load->model('Product_model');
     }
 
     public function index()
@@ -55,7 +55,7 @@ class Katalog_product extends CI_Controller{
 
     public function tambah_ke_keranjang($id)
     {
-        $barang = $this->product_model->find($id);
+        $barang = $this->Product_model->find($id);
         $data = array(
             'id' => $barang->product_id,
             'qty' => 1,
@@ -94,7 +94,7 @@ class Katalog_product extends CI_Controller{
 
     public function proses_pesanan()
     {
-        $di_proses=$this->model_invoice->index();
+        $di_proses=$this->Model_invoice->index();
         if($di_proses){
             $this->cart->destroy();
             $this->load->view('template/header');
@@ -107,9 +107,9 @@ class Katalog_product extends CI_Controller{
 
     function search(){
         $keyword = $this->input->get('keyword');
-        $this->load->model('product_model');
+        $this->load->model('Product_model');
 
-        $result = $this->product_model->cari($keyword);
+        $result = $this->Product_model->cari($keyword);
         $data['result'] = $result;
 
         $this->load->view('template/header');
