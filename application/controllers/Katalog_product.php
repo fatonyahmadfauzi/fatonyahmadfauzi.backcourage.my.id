@@ -5,6 +5,9 @@ class Katalog_product extends CI_Controller{
     public function __construct() 
     { 
         parent::__construct();
+        $this->load->library('session');
+        $this->load->library('form_validation');
+        $this->load->model('Model_auth'); // Pastikan Model_auth telah dibuat dan dimuat
         $this->load->helper('url', 'form');
         $this->load->model('Product_model');
     }
@@ -70,13 +73,30 @@ class Katalog_product extends CI_Controller{
         redirect('katalog_product');
     }
 
-    public function detail_keranjang() 
-    { 
+    public function detail_keranjang()
+    {
+        // Memeriksa status login pengguna
+        if ($this->session->userdata('email')) {
+            // Jika pengguna sudah login, gunakan template/sidebar_user
+            $user = $this->User_model->get_user_by_email($this->session->userdata('email'));
+
+            if ($user) {
+                $data['user'] = $user; // Menambahkan data pengguna ke variabel data
+
+                $this->load->view('template/header', $data);
+                $this->load->view('template/sidebar_user', $data);
+                $this->load->view('keranjang', $data); // Menambahkan variabel data saat memuat keranjang
+                $this->load->view('template/footer', $data);
+
+                return;
+            }
+        }
+
         $this->load->view('template/header');
-        $this->load->view('template/sidebar_user');
-        $this->load->view('keranjang'); 
-        $this->load->view('template/footer'); 
-    } 
+        $this->load->view('template/sidebar');
+        $this->load->view('not_logged_in'); // Mengarahkan ke not_logged_in jika pengguna belum login
+        $this->load->view('template/footer');
+    }
 
     public function hapus_keranjang($product_id) 
     { 
@@ -84,13 +104,30 @@ class Katalog_product extends CI_Controller{
         redirect('katalog_product/detail_keranjang');
     } 
 
-    public function pembayaran() 
-    { 
-        $this->load->view('template/header'); 
-        $this->load->view('template/sidebar_user');
-        $this->load->view('pembayaran'); 
-        $this->load->view('template/footer'); 
-    } 
+    public function pembayaran()
+    {
+        // Memeriksa status login pengguna
+        if ($this->session->userdata('email')) {
+            // Jika pengguna sudah login, gunakan template/sidebar_user
+            $user = $this->User_model->get_user_by_email($this->session->userdata('email'));
+
+            if ($user) {
+                $data['user'] = $user; // Menambahkan data pengguna ke variabel data
+
+                $this->load->view('template/header', $data);
+                $this->load->view('template/sidebar_user', $data);
+                $this->load->view('pembayaran', $data);
+                $this->load->view('template/footer', $data);
+
+                return;
+            }
+        }
+
+        $this->load->view('template/header');
+        $this->load->view('template/sidebar');
+        $this->load->view('not_logged_in'); // Mengarahkan ke not_logged_in jika pengguna belum login
+        $this->load->view('template/footer');
+    }
 
     public function proses_pesanan()
     {

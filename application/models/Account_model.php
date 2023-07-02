@@ -1,16 +1,30 @@
-<?php 
-class Account_model extends CI_Model
-{
-    public function get_user_info($user_id)
-    {
-        $this->db->select('tb_user.id, tb_user.username, tb_user.password, tb_user.nama, tb_user.email, info_user.profile_picture, info_user.alamat, info_user.nomor_hp, info_user.region');
-        $this->db->from('tb_user');
-        $this->db->join('info_user', 'info_user.user_id = tb_user.id');
-        $this->db->where('tb_user.id', $user_id);
-        $query = $this->db->get();
-        return $query->row_array();
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+class Account_model extends CI_Model {
+
+    public function getInfoUsers() {
+        return $this->db->get('info_user')->result();
     }
 
-    // ...
+    public function getUserInfo($user_id)
+    {
+        $query = $this->db->get_where('tb_user', array('user_id' => $user_id));
+        return $query;
+    }
+
+    public function addInfoUser($data) {
+        $this->db->insert('info_user', $data);
+        return $this->db->insert_id();
+    }
+
+    public function updateInfoUser($user_id, $data) {
+        $this->db->where('user_id', $user_id);
+        return $this->db->update('info_user', $data);
+    }
+
+    public function deleteInfoUser($user_id) {
+        $this->db->where('user_id', $user_id);
+        return $this->db->delete('info_user');
+    }
 }
 ?>
