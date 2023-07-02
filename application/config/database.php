@@ -75,9 +75,12 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost:3306',
-	'username' => 'backcour_fatonyahmadfauzi',
-	'password' => 'fatonyahmad88',
+	// 'hostname' => 'localhost:3306',
+	// 'username' => 'backcour_fatonyahmadfauzi',
+	// 'password' => 'fatonyahmad88',
+	'hostname' => 'localhost',
+	'username' => 'root',
+	'password' => '',
 	'database' => 'backcour_ecommerce',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',

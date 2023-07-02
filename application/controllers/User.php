@@ -21,7 +21,7 @@ class User extends CI_Controller
         }
         $this->load->view('template/header');
         $this->load->view('template/sidebar_admin');
-        $this->load->view('user_view', $data);
+        $this->load->view('users/user_view', $data);
         $this->load->view('template/footer');
     }
 
@@ -29,7 +29,7 @@ class User extends CI_Controller
     {
         $this->load->view('template/header');
         $this->load->view('template/sidebar_admin');
-        $this->load->view('user_create');
+        $this->load->view('users/user_create');
         $this->load->view('template/footer');
     }
 
@@ -92,7 +92,7 @@ class User extends CI_Controller
             );
             $this->load->view('template/header');
             $this->load->view('template/sidebar_admin');
-            $this->load->view('user_edit' ,$data);
+            $this->load->view('users/user_edit' ,$data);
             $this->load->view('template/footer');
         } else {
             echo "Data Was Not Found";

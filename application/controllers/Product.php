@@ -40,14 +40,14 @@ class Product extends CI_Controller {
 
         $this->load->view('template/header');
         $this->load->view('template/sidebar_admin');
-        $this->load->view('product_view', $data);
+        $this->load->view('product/product_view', $data);
         $this->load->view('template/footer');
     }
 
     function add_new() {
         $this->load->view('template/header');
         $this->load->view('template/sidebar_admin');
-        $this->load->view('add_product_view');
+        $this->load->view('product/add_product_view');
         $this->load->view('template/footer');
     }
 
@@ -101,7 +101,7 @@ class Product extends CI_Controller {
             );
             $this->load->view('template/header');
             $this->load->view('template/sidebar_admin');
-            $this->load->view('edit_product_view', $data);
+            $this->load->view('product/edit_product_view', $data);
             $this->load->view('template/footer');
         } else {
             echo "Data Was Not Found";
@@ -135,7 +135,7 @@ class Product extends CI_Controller {
 
         $this->load->view('template/header');
         $this->load->view('template/sidebar_admin');
-        $this->load->view('hasil_pencarian_admin',$data);
+        $this->load->view('search/hasil_pencarian_admin',$data);
         $this->load->view('template/footer');
     }
 }

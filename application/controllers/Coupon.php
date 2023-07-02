@@ -9,14 +9,14 @@ class Coupon extends CI_Controller {
         $data['coupons'] = $this->Coupon_model->get_coupons();
         $this->load->view('template/header');
         $this->load->view('template/sidebar_admin');
-        $this->load->view('coupon_view', $data);
+        $this->load->view('coupons/coupon_view', $data);
         $this->load->view('template/footer');
     }
 
     public function create_coupon() {
         $this->load->view('template/header');
         $this->load->view('template/sidebar_admin');
-        $this->load->view('create_coupon');
+        $this->load->view('coupons/create_coupon');
         $this->load->view('template/footer');
     }
 
@@ -40,7 +40,7 @@ class Coupon extends CI_Controller {
         if ($data['coupon']) {
             $this->load->view('template/header');
             $this->load->view('template/sidebar_admin');
-            $this->load->view('edit_coupon', $data);
+            $this->load->view('coupons/edit_coupon', $data);
             $this->load->view('template/footer'); 
         } else {
             echo "Data Was Not Found";

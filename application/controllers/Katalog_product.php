@@ -114,7 +114,7 @@ class Katalog_product extends CI_Controller{
 
         $this->load->view('template/header');
         $this->load->view('template/sidebar_user');
-        $this->load->view('hasil_pencarian_user',$data);
+        $this->load->view('search/hasil_pencarian_user',$data);
         $this->load->view('template/footer');
     }
 }
