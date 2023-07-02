@@ -42,7 +42,7 @@
     <div class="container">
         <div class="col-md-6 offset-md-3"> 
             <?php echo $this->session->flashdata('error_message'); ?>
-            <form action="<?php echo site_url('user/create');?>" method="post" enctype="multipart/form-data">
+            <form action="<?php echo site_url('user/save');?>" method="post" enctype="multipart/form-data">
                 <div class="form-group">
                     <label for="formGroupExampleInput">Username</label>
                     <input type="text" name="username" class="form-control" id="formGroupExampleInput" placeholder="Username" required>

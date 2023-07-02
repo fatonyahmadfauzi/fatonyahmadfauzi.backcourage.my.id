@@ -39,9 +39,7 @@ class User extends CI_Controller
         $password = $this->input->post('password');
         $nama = $this->input->post('nama');
         $email = $this->input->post('email');
-        $role_id = $this->input->post('role_id');
-        
-
+        $role_id = $this->input->post('role_id');  
 
         // Validasi data sebelum disimpan
         if (empty($username) || empty($password) || empty($nama) || empty($email) || empty($role_id)) {
@@ -52,11 +50,10 @@ class User extends CI_Controller
         }
 
         // Panggil fungsi hash_password() pada model untuk mengenkripsi password
-        $hashed_password = $this->User_model->hash_password($password);
+        //$hashed_password = $this->User_model->hash_password($password);
 
         // Panggil fungsi create_user() pada model untuk menyimpan data
-        $result = $this->User_model->create_user($username, $hashed_password, $nama, $email, $role_id);
-       
+        $result = $this->User_model->create_user($username, $password, $nama, $email, $role_id);
 
         if ($result) {
             // Jika berhasil disimpan, tampilkan pesan berhasil
@@ -65,8 +62,6 @@ class User extends CI_Controller
             // Jika terjadi kesalahan saat menyimpan, tampilkan pesan error
             $this->session->set_flashdata('error_message', 'Terjadi kesalahan saat menyimpan data.');
         }
-        
-
         redirect('user');
     }
 
@@ -107,7 +102,6 @@ class User extends CI_Controller
         $email = $this->input->post('email');
         $role_id = $this->input->post('role_id');
         
-
         // Panggil fungsi hash_password() pada model untuk mengenkripsi password
         //$hashed_password = $this->User_model->hash_password($password);
 

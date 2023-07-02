@@ -43,7 +43,7 @@ class User_model extends CI_Model
     public function get_user($id)
     {
         $query = $this->db->get_where('tb_user', array('id' => $id));
-        return $query->row_array();
+        return $query;
     }
 
     public function get_user_role_id($email)

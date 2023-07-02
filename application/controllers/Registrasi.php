@@ -14,12 +14,12 @@
             else
             { 
                 $data = array( 
-                'id' => '', 
-                'nama' => $this->input->post('nama'), 
-                'username' => $this->input->post('username'), 
-                'password' => $this->input->post('register_password'),
-                'email' => $this->input->post('register_email'), 
-                'role_id' => 2, 
+                    'id' => '', 
+                    'nama' => $this->input->post('nama'), 
+                    'username' => $this->input->post('username'), 
+                    'password' => $this->input->post('register_password'),
+                    'email' => $this->input->post('register_email'), 
+                    'role_id' => 2, 
                 ); 
                 $this->db->insert('tb_user',$data); 
                 $this->load->view('registrasi_success'); 

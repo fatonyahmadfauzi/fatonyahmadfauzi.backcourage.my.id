@@ -69,7 +69,7 @@
                 <div class="col-lg-6 col-md-6">
                     <div class="account_form register" data-aos="fade-up" data-aos-delay="200">
                         <h3>Register</h3>
-                        <form id="register" action="#" method="POST" action="<?php echo base_url('registrasi/index')?>">
+                        <form id="register" method="POST" action="<?php echo base_url('registrasi/index')?>">
                             <div class="default-form-box">
                                 <label>Username <span>*</span></label>
                                 <input type="text" name="username">
@@ -80,11 +80,11 @@
                             </div>
                             <div class="default-form-box">
                                 <label>Email address <span>*</span></label>
-                                <input type="text" name="email">
+                                <input type="text" name="register_email">
                             </div>
                             <div class="default-form-box">
                                 <label>Password <span>*</span></label>
-                                <input type="password" name="password">
+                                <input type="password" name="register_password">
                             </div>
                             <div class="login_submit">
                                 <button class="btn btn-md btn-black-default-hover" type="submit">Register</button>

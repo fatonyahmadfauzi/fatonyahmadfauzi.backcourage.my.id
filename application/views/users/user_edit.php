@@ -33,56 +33,43 @@
             </div>
         </div>
     </div> <!-- ...:::: End Breadcrumb Section:::... -->
-
     <style>
         .form-group {
             color: black;
         }
     </style>
-
     <div class="container">
-        <div class="col-md-6 offset-md-3"
+        <div class="col-md-6 offset-md-3">
             <form enctype="multipart/form-data" action="<?php echo site_url('user/update');?>" method="post"> 
                 <div class="form-group"> 
                     <label>Edit Username</label> 
-                    <input 
-                    type="text" 
-                    class="form-control" 
-                    name="username" 
-                    value="<?php echo $username;?>" placeholder="Edit Username"> 
+                    <input type="text" class="form-control" name="username" value="<?php echo $username;?>" placeholder="Edit Username"> 
                 </div> 
-
                 <div class="form-group"> 
                     <label>Edit Password</label> 
-                    <input type="text" class="form-control" name="password" 
-                    value="<?php echo 
-                    $password;?>" placeholder="password"> 
+                    <input type="password" class="form-control" name="password" value="<?php echo $password;?>" placeholder="password"> 
                 </div>
-
                 <div class="form-group"> 
                     <label>Nama</label> 
-                    <input type="nama" class="form-control" name="nama" 
-                    value="<?php echo 
-                    $nama;?>" placeholder="Nama"> 
+                    <input type="nama" class="form-control" name="nama" value="<?php echo $nama;?>" placeholder="Nama"> 
                 </div>
-
                 <div class="form-group"> 
                     <label>Email</label> 
-                    <input type="text" class="form-control" name="email" 
-                    value="<?php echo 
-                    $email;?>" placeholder="email"> 
+                    <input type="text" class="form-control" name="email" value="<?php echo $email;?>" placeholder="email"> 
                 </div>
-
-                <div class="form group">
-                            <label>Role_ID</label>           
-                            <select class="form-select" name="role_id" aria-label="Default select example">                                       
-                            <option value="1"><?php if($role_id == 1); ?>Admin</option>
-                            <option value="2"><?php if($role_id == 2); ?>User</option>
+                <div class="form-group">
+                    <label>Role_ID</label>
+                    <div class="form-group">
+                        <select name="role_id" aria-label="Default select example" class="form-control">
+                            <option value="1" <?php if($role_id == 1) echo 'selected'; ?>>Admin</option>
+                            <option value="2" <?php if($role_id == 2) echo 'selected'; ?>>User</option>
                         </select>
+                        <div class="input-group-append">
+                            <button type="submit" class="btn btn-primary">Update</button>
+                        </div>
                     </div>
-                
-                <input type="hidden" name="id" value="<?php echo $id?>"> 
-                <button type="submit" class="btn btn-primary" style="margin-top: 5px;">Update</button> 
+                </div>
+                <input type="hidden" name="id" value="<?php echo $id; ?>">
             </form>
         </div>  
     </div>
@@ -98,4 +85,3 @@
     </script>
 </body>
 </html>
-
