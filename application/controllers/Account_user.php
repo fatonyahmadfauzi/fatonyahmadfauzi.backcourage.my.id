@@ -35,7 +35,7 @@ class Account_user extends CI_Controller {
         // Load template sidebar untuk pengguna yang belum login
         $this->load->view('template/header');
         $this->load->view('template/sidebar');
-        $this->load->view('not_logged_in');
+        $this->load->view('errors/not_logged_in');
         $this->load->view('template/footer');
     }
 

@@ -46,7 +46,7 @@
                                                     <li class="mega-menu-item">
                                                         <a href="#" class="mega-menu-item-title">Other Pages</a>
                                                         <ul class="mega-menu-sub">
-                                                            <li><a href="<?php echo base_url('coupon/coupon_list')?>">Coupon List</a></li>
+                                                            <li><a href="<?php echo base_url('coupon')?>">Coupon List</a></li>
                                                             <li><a href="<?php echo site_url('invoice'); ?>">Detail Transaksi</a></li>
                                                             <li><a href="<?php echo base_url('user')?>">Manage User</a></li>
                                                             <li><a href="<?php echo base_url('account_user')?>">My Account</a></li>
@@ -208,7 +208,7 @@
                                 <li>
                                     <a href="#">Shop Pages</a>
                                     <ul class="mobile-sub-menu">
-                                        <li><a href="<?php echo base_url('coupon/coupon_list')?>">Coupon List</a></li>
+                                        <li><a href="<?php echo base_url('coupon')?>">Coupon List</a></li>
                                         <li><a href="<?php echo site_url('invoice'); ?>">Detail Transaksi</a></li>
                                         <li><a href="<?php echo base_url('user')?>">Manage User</a></li>
                                         <li><a href="<?php echo base_url('account_user')?>">My Account</a></li>

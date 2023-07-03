@@ -94,7 +94,7 @@ class Katalog_product extends CI_Controller{
 
         $this->load->view('template/header');
         $this->load->view('template/sidebar');
-        $this->load->view('not_logged_in'); // Mengarahkan ke not_logged_in jika pengguna belum login
+        $this->load->view('errors/not_logged_in'); // Mengarahkan ke not_logged_in jika pengguna belum login
         $this->load->view('template/footer');
     }
 
@@ -125,7 +125,7 @@ class Katalog_product extends CI_Controller{
 
         $this->load->view('template/header');
         $this->load->view('template/sidebar');
-        $this->load->view('not_logged_in'); // Mengarahkan ke not_logged_in jika pengguna belum login
+        $this->load->view('errors/not_logged_in'); // Mengarahkan ke not_logged_in jika pengguna belum login
         $this->load->view('template/footer');
     }
 
@@ -149,8 +149,31 @@ class Katalog_product extends CI_Controller{
         $result = $this->Product_model->cari($keyword);
         $data['result'] = $result;
 
+        // Memeriksa status login pengguna
+        if ($this->session->userdata('email')) {
+            // Jika pengguna sudah login, gunakan template/sidebar_user
+            $user = $this->User_model->get_user_by_email($this->session->userdata('email'));
+            
+            if ($user) {
+                $role_id = $user['role_id'];
+
+                $this->load->view('template/header', $data);
+
+                if ($role_id == 1) {
+                    $this->load->view('template/sidebar_admin', $data);
+                } elseif ($role_id == 2) {
+                    $this->load->view('template/sidebar_user', $data);
+                }
+
+                $this->load->view('search/hasil_pencarian_user', $data);
+                $this->load->view('template/footer', $data);
+                
+                return;
+            }
+        }
+
         $this->load->view('template/header');
-        $this->load->view('template/sidebar_user');
+        $this->load->view('template/sidebar');
         $this->load->view('search/hasil_pencarian_user',$data);
         $this->load->view('template/footer');
     }
