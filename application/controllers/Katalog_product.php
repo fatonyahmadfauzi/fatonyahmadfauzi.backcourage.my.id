@@ -134,9 +134,32 @@ class Katalog_product extends CI_Controller{
         $di_proses=$this->Model_invoice->index();
         if($di_proses){
             $this->cart->destroy();
+            if ($this->session->userdata('email')) {
+                // Jika pengguna sudah login, gunakan template/sidebar_user
+                $user = $this->User_model->get_user_by_email($this->session->userdata('email'));
+                
+                if ($user) {
+                    $role_id = $user['role_id'];
+
+                    $data['coupons'] = $this->Coupon_model->get_coupons();
+                    $this->load->view('template/header', $data);
+
+                    if ($role_id == 1) {
+                        $this->load->view('template/sidebar_admin', $data);
+                        $this->load->view('errors/cannot_access', $data);
+                    } elseif ($role_id == 2) {
+                        $this->load->view('template/sidebar_user', $data);
+                        $this->load->view('proses_pesanan', $data);
+                    }
+
+                    $this->load->view('template/footer', $data);
+                    
+                    return;
+                    }
+                }
             $this->load->view('template/header');
-            $this->load->view('template/sidebar_user');
-            $this->load->view('proses_pesanan');
+            $this->load->view('template/sidebar');
+            $this->load->view('errors/cannot_access', $data);
             $this->load->view('template/footer');
         }
         else{ echo"Maaf, Pesanan anda gagal diproses";}
