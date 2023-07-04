@@ -140,15 +140,18 @@
                 </div> <!-- End Tab Wrapper -->
 
                 <!-- Start Pagination -->
-                <div class="page-pagination text-center" data-aos="fade-up" data-aos-delay="0">
-                    <ul>
-                        <?php for ($i = 1; $i <= ceil($totalProducts / $perPage); $i++) : ?>
-                            <li <?php if ($i == $currentPage) echo 'class="active"'; ?>>
-                                <a href="<?php echo site_url('katalog_product?page=' . $i); ?>"><?php echo $i; ?></a>
-                            </li>
-                        <?php endfor; ?>
-                    </ul>
-                </div> <!-- End Pagination -->
+                <?php if (!empty($pagination)) : ?>
+                    <div class="page-pagination text-center" data-aos="fade-up" data-aos-delay="0">
+                        <ul>
+                            <?php for ($i = 1; $i <= ceil($totalProducts / $perPage); $i++) : ?>
+                                <li <?php if ($i == $currentPage) echo 'class="active"'; ?>>
+                                    <a href="<?php echo site_url('katalog_product?page=' . $i . '&sort=' . $sort); ?>"><?php echo $i; ?></a>
+                                </li>
+                            <?php endfor; ?>
+                        </ul>
+                    </div>
+                <?php endif; ?>
+                <!-- End Pagination -->
 
             </div> <!-- End Shop Product Sorting Section  -->
         </div>

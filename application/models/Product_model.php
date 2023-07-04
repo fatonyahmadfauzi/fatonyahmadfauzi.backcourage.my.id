@@ -85,9 +85,62 @@ class Product_model extends CI_Model{
         return $query->result();
     }
 
-    public function cari($keyword){
-        $this->db->like('product_name',$keyword);
+    public function search($keyword, $start, $perPage) {
+        // Kode untuk melakukan pencarian produk berdasarkan kata kunci
+        $this->db->like('product_name', $keyword);
+        $this->db->limit($perPage, $start);
         $query = $this->db->get('product');
+        return $query->result();
+    }
+
+    public function getTotalSearchProducts($keyword) {
+        // Kode untuk menghitung total produk berdasarkan kata kunci pencarian
+        $this->db->like('product_name', $keyword);
+        $query = $this->db->get('product');
+        return $query->num_rows();
+    }
+
+    public function get_lowprice_search($keyword, $start, $perPage)
+    {
+        $this->db->select('*');
+        $this->db->from('product');
+        $this->db->like('product_name', $keyword);
+        $this->db->order_by('product_price', 'asc');
+        $this->db->limit($perPage, $start);
+        $query = $this->db->get();
+        return $query->result();
+    }
+
+    public function get_highprice_search($keyword, $start, $perPage)
+    {
+        $this->db->select('*');
+        $this->db->from('product');
+        $this->db->like('product_name', $keyword);
+        $this->db->order_by('product_price', 'desc');
+        $this->db->limit($perPage, $start);
+        $query = $this->db->get();
+        return $query->result();
+    }
+
+    public function get_name_search($keyword, $start, $perPage)
+    {
+        $this->db->select('*');
+        $this->db->from('product');
+        $this->db->like('product_name', $keyword);
+        $this->db->order_by('product_name', 'asc');
+        $this->db->limit($perPage, $start);
+        $query = $this->db->get();
+        return $query->result();
+    }
+
+    public function get_newness_search($keyword, $start, $perPage)
+    {
+        $this->db->select('*');
+        $this->db->from('product');
+        $this->db->like('product_name', $keyword);
+        $this->db->order_by('created_at', 'desc');
+        $this->db->limit($perPage, $start);
+        $query = $this->db->get();
         return $query->result();
     }
 }

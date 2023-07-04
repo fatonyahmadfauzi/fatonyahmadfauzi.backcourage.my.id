@@ -3729,3 +3729,971 @@ DEBUG - 2023-07-03 08:49:58 --> Session class already loaded. Second attempt ign
 DEBUG - 2023-07-03 08:49:58 --> Session class already loaded. Second attempt ignored.
 DEBUG - 2023-07-03 08:49:58 --> Form_validation class already loaded. Second attempt ignored.
 DEBUG - 2023-07-03 08:49:58 --> Total execution time: 0.0312
+DEBUG - 2023-07-03 23:32:37 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:32:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:32:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:37 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:37 --> Total execution time: 0.8113
+DEBUG - 2023-07-03 23:32:38 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:32:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:32:38 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:32:38 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:32:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:32:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Total execution time: 0.0486
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:32:38 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:32:38 --> Total execution time: 0.0717
+DEBUG - 2023-07-03 23:32:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:32:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:32:38 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Total execution time: 0.1269
+DEBUG - 2023-07-03 23:32:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:32:38 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:32:38 --> Total execution time: 0.0429
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Total execution time: 0.0608
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Total execution time: 0.0630
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Total execution time: 0.0588
+DEBUG - 2023-07-03 23:32:38 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:32:38 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:32:38 --> Total execution time: 0.0608
+DEBUG - 2023-07-03 23:32:38 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:32:38 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:32:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:32:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:32:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Total execution time: 0.0448
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Total execution time: 0.0502
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Total execution time: 0.0566
+DEBUG - 2023-07-03 23:32:38 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:32:38 --> Total execution time: 0.0716
+DEBUG - 2023-07-03 23:32:38 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Total execution time: 0.0406
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:38 --> Total execution time: 0.0405
+DEBUG - 2023-07-03 23:32:56 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:32:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:32:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:56 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:56 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:32:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:32:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:56 --> Total execution time: 0.1411
+DEBUG - 2023-07-03 23:32:56 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:32:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:32:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:32:56 --> Total execution time: 0.0407
+DEBUG - 2023-07-03 23:36:24 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:36:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:36:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:36:24 --> Total execution time: 0.0384
+DEBUG - 2023-07-03 23:36:24 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:36:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:36:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:36:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:36:24 --> Total execution time: 0.0487
+DEBUG - 2023-07-03 23:36:27 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:36:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:36:27 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:36:27 --> Total execution time: 0.0472
+DEBUG - 2023-07-03 23:36:27 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:36:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:36:27 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:36:27 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:36:27 --> Total execution time: 0.0601
+DEBUG - 2023-07-03 23:36:30 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:36:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:36:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:36:30 --> Total execution time: 0.0452
+DEBUG - 2023-07-03 23:36:30 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:36:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:36:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:36:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:36:30 --> Total execution time: 0.0406
+DEBUG - 2023-07-03 23:36:35 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:36:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:36:35 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:36:35 --> Total execution time: 0.0259
+DEBUG - 2023-07-03 23:36:35 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:36:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:36:35 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:36:35 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:36:35 --> Total execution time: 0.0300
+DEBUG - 2023-07-03 23:36:37 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:36:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:36:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:36:37 --> Total execution time: 0.0261
+DEBUG - 2023-07-03 23:36:37 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:36:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:36:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:36:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:36:38 --> Total execution time: 0.0295
+DEBUG - 2023-07-03 23:36:40 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:36:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:36:40 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:36:40 --> Total execution time: 0.0253
+DEBUG - 2023-07-03 23:36:40 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:36:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:36:40 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:36:40 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:36:40 --> Total execution time: 0.0320
+DEBUG - 2023-07-03 23:41:36 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:41:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:41:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:41:36 --> Total execution time: 0.0301
+DEBUG - 2023-07-03 23:41:37 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:41:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:41:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:41:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:41:37 --> Total execution time: 0.0304
+DEBUG - 2023-07-03 23:41:42 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:41:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:41:42 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:41:42 --> Total execution time: 0.0276
+DEBUG - 2023-07-03 23:41:42 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:41:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:41:42 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:41:42 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:41:42 --> Total execution time: 0.0262
+DEBUG - 2023-07-03 23:41:45 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:41:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:41:45 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:41:45 --> Total execution time: 0.0249
+DEBUG - 2023-07-03 23:41:45 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:41:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:41:45 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:41:45 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:41:45 --> Total execution time: 0.0312
+DEBUG - 2023-07-03 23:41:48 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:41:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:41:48 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:41:48 --> Total execution time: 0.0401
+DEBUG - 2023-07-03 23:41:48 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:41:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:41:48 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:41:48 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:41:48 --> Total execution time: 0.0468
+DEBUG - 2023-07-03 23:41:51 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:41:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:41:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:41:51 --> Total execution time: 0.0246
+DEBUG - 2023-07-03 23:41:51 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:41:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:41:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:41:51 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:41:51 --> Total execution time: 0.0286
+DEBUG - 2023-07-03 23:42:02 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:42:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:42:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:02 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:02 --> Total execution time: 0.0611
+DEBUG - 2023-07-03 23:42:02 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:42:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:42:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:02 --> Total execution time: 0.0304
+DEBUG - 2023-07-03 23:42:07 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:42:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:42:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:07 --> Total execution time: 0.1174
+DEBUG - 2023-07-03 23:42:07 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:42:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:42:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:07 --> Total execution time: 0.0498
+DEBUG - 2023-07-03 23:42:09 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:42:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:42:09 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:09 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:09 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:10 --> Total execution time: 0.5119
+DEBUG - 2023-07-03 23:42:16 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:42:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:42:16 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:16 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:16 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:16 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:42:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:42:16 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:16 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:16 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:16 --> Total execution time: 0.0807
+DEBUG - 2023-07-03 23:42:26 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:42:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:42:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:26 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:26 --> Total execution time: 0.0523
+DEBUG - 2023-07-03 23:42:30 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:42:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:42:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:30 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:30 --> Total execution time: 0.0432
+DEBUG - 2023-07-03 23:42:31 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:42:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:42:31 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:31 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:31 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:31 --> Total execution time: 0.0261
+DEBUG - 2023-07-03 23:42:31 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:42:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:42:31 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:42:31 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:42:31 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:42:31 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:42:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:42:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:42:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:42:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:42:31 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:31 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:42:31 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:31 --> Total execution time: 0.0366
+DEBUG - 2023-07-03 23:42:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:42:31 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:31 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:31 --> Total execution time: 0.0381
+DEBUG - 2023-07-03 23:42:31 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:31 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:31 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:42:31 --> Total execution time: 0.0442
+DEBUG - 2023-07-03 23:42:31 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:42:31 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:42:31 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:31 --> Total execution time: 0.0523
+DEBUG - 2023-07-03 23:42:31 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:42:31 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:42:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:32 --> Total execution time: 0.0671
+DEBUG - 2023-07-03 23:42:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:42:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:32 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:42:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:32 --> Total execution time: 0.0614
+DEBUG - 2023-07-03 23:42:32 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:42:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:42:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:42:32 --> Total execution time: 0.0514
+DEBUG - 2023-07-03 23:42:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:32 --> Total execution time: 0.0595
+DEBUG - 2023-07-03 23:42:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:32 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:42:32 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:42:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:32 --> Total execution time: 0.0616
+DEBUG - 2023-07-03 23:42:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:42:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:42:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:32 --> Total execution time: 0.0503
+DEBUG - 2023-07-03 23:42:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:32 --> Total execution time: 0.0693
+DEBUG - 2023-07-03 23:42:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:32 --> Total execution time: 0.0379
+DEBUG - 2023-07-03 23:42:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:42:32 --> Total execution time: 0.0568
+DEBUG - 2023-07-03 23:43:50 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:43:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:43:50 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:50 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:50 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:50 --> Total execution time: 0.1070
+DEBUG - 2023-07-03 23:43:52 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:43:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:43:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:52 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:52 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:52 --> Total execution time: 0.0257
+DEBUG - 2023-07-03 23:43:54 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:43:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:43:54 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:54 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:54 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:54 --> Total execution time: 0.0256
+DEBUG - 2023-07-03 23:43:56 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:43:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> Total execution time: 0.0494
+DEBUG - 2023-07-03 23:43:56 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:43:56 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:43:56 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:43:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:43:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:43:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:43:56 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:43:56 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:43:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:43:56 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:43:56 --> Total execution time: 0.0326
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> Total execution time: 0.0405
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> Total execution time: 0.0496
+DEBUG - 2023-07-03 23:43:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:43:56 --> Total execution time: 0.0601
+DEBUG - 2023-07-03 23:43:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> Total execution time: 0.0660
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> Total execution time: 0.0719
+DEBUG - 2023-07-03 23:43:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> Total execution time: 0.0558
+DEBUG - 2023-07-03 23:43:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> Total execution time: 0.0478
+DEBUG - 2023-07-03 23:43:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> Total execution time: 0.0646
+DEBUG - 2023-07-03 23:43:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> Total execution time: 0.0469
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> Total execution time: 0.0462
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> Total execution time: 0.0409
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:43:56 --> Total execution time: 0.0373
+DEBUG - 2023-07-03 23:44:05 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:05 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:05 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:05 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:06 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:06 --> Total execution time: 0.0504
+DEBUG - 2023-07-03 23:44:06 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:06 --> Total execution time: 0.0319
+DEBUG - 2023-07-03 23:44:08 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> Total execution time: 0.0445
+DEBUG - 2023-07-03 23:44:08 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:08 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:08 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:08 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:08 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:08 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> Total execution time: 0.0436
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> Total execution time: 0.0436
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:08 --> Total execution time: 0.0500
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:08 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> Total execution time: 0.0586
+DEBUG - 2023-07-03 23:44:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> Total execution time: 0.0707
+DEBUG - 2023-07-03 23:44:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> Total execution time: 0.0815
+DEBUG - 2023-07-03 23:44:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> Total execution time: 0.0431
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> Total execution time: 0.0499
+DEBUG - 2023-07-03 23:44:08 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:08 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> Total execution time: 0.0530
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> Total execution time: 0.0525
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> Total execution time: 0.0341
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:08 --> Total execution time: 0.0432
+DEBUG - 2023-07-03 23:44:10 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:10 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:10 --> Total execution time: 0.0465
+DEBUG - 2023-07-03 23:44:10 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:10 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:10 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:10 --> Total execution time: 0.0324
+DEBUG - 2023-07-03 23:44:13 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> Total execution time: 0.0439
+DEBUG - 2023-07-03 23:44:13 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:13 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:13 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:13 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:13 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:13 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> Total execution time: 0.0385
+DEBUG - 2023-07-03 23:44:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> Total execution time: 0.0445
+DEBUG - 2023-07-03 23:44:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> Total execution time: 0.0526
+DEBUG - 2023-07-03 23:44:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> Total execution time: 0.0642
+DEBUG - 2023-07-03 23:44:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> Total execution time: 0.0718
+DEBUG - 2023-07-03 23:44:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:13 --> Total execution time: 0.0719
+DEBUG - 2023-07-03 23:44:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> Total execution time: 0.0484
+DEBUG - 2023-07-03 23:44:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> Total execution time: 0.0499
+DEBUG - 2023-07-03 23:44:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> Total execution time: 0.0523
+DEBUG - 2023-07-03 23:44:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> Total execution time: 0.0517
+DEBUG - 2023-07-03 23:44:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:13 --> Total execution time: 0.0483
+DEBUG - 2023-07-03 23:44:17 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:17 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:17 --> Total execution time: 0.0265
+DEBUG - 2023-07-03 23:44:17 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:17 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:17 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:17 --> Total execution time: 0.0527
+DEBUG - 2023-07-03 23:44:22 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:22 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:22 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:22 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:22 --> Total execution time: 0.0253
+DEBUG - 2023-07-03 23:44:23 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:23 --> Total execution time: 0.0477
+DEBUG - 2023-07-03 23:44:23 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:23 --> Total execution time: 0.0468
+DEBUG - 2023-07-03 23:44:23 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:23 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:23 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:23 --> Total execution time: 0.0463
+DEBUG - 2023-07-03 23:44:24 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:24 --> Total execution time: 0.0395
+DEBUG - 2023-07-03 23:44:24 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:24 --> Total execution time: 0.0484
+DEBUG - 2023-07-03 23:44:24 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:24 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:24 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:24 --> Total execution time: 0.0257
+DEBUG - 2023-07-03 23:44:25 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:25 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:25 --> Total execution time: 0.0463
+DEBUG - 2023-07-03 23:44:25 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:25 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:25 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:25 --> Total execution time: 0.0479
+DEBUG - 2023-07-03 23:44:30 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:30 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:30 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:30 --> Total execution time: 0.0396
+DEBUG - 2023-07-03 23:44:35 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:35 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:35 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:35 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:35 --> Total execution time: 0.0241
+DEBUG - 2023-07-03 23:44:36 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:36 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:36 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:36 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:36 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:36 --> Total execution time: 0.0465
+DEBUG - 2023-07-03 23:44:37 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:37 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:37 --> Total execution time: 0.0230
+DEBUG - 2023-07-03 23:44:37 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:37 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:37 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:37 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:37 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:37 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:37 --> Total execution time: 0.0437
+DEBUG - 2023-07-03 23:44:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:37 --> Total execution time: 0.0424
+DEBUG - 2023-07-03 23:44:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:37 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:37 --> Total execution time: 0.0510
+DEBUG - 2023-07-03 23:44:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:37 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:37 --> Total execution time: 0.0671
+DEBUG - 2023-07-03 23:44:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:37 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:37 --> Total execution time: 0.0783
+DEBUG - 2023-07-03 23:44:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:37 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:37 --> Total execution time: 0.0758
+DEBUG - 2023-07-03 23:44:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:37 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:37 --> Total execution time: 0.0552
+DEBUG - 2023-07-03 23:44:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:37 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:37 --> Total execution time: 0.0542
+DEBUG - 2023-07-03 23:44:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:37 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:37 --> Total execution time: 0.0537
+DEBUG - 2023-07-03 23:44:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:38 --> Total execution time: 0.0542
+DEBUG - 2023-07-03 23:44:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:38 --> Total execution time: 0.0434
+DEBUG - 2023-07-03 23:44:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:38 --> Total execution time: 0.0626
+DEBUG - 2023-07-03 23:44:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:38 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:38 --> Total execution time: 0.0454
+DEBUG - 2023-07-03 23:44:44 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:44 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:44 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:44 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:44 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:44 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:44 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:44 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:44 --> Total execution time: 0.1156
+DEBUG - 2023-07-03 23:44:57 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:44:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:44:57 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:57 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:57 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:44:57 --> Total execution time: 0.0250
+DEBUG - 2023-07-03 23:45:00 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:00 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:00 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:00 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:00 --> Total execution time: 0.0250
+DEBUG - 2023-07-03 23:45:01 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:01 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:01 --> Total execution time: 0.0262
+DEBUG - 2023-07-03 23:45:02 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> Total execution time: 0.0949
+DEBUG - 2023-07-03 23:45:02 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:02 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:02 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:02 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:02 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:02 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> Total execution time: 0.0383
+DEBUG - 2023-07-03 23:45:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> Total execution time: 0.0445
+DEBUG - 2023-07-03 23:45:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> Total execution time: 0.0557
+DEBUG - 2023-07-03 23:45:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:02 --> Total execution time: 0.0682
+DEBUG - 2023-07-03 23:45:02 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> Total execution time: 0.0801
+DEBUG - 2023-07-03 23:45:02 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:02 --> Total execution time: 0.0936
+DEBUG - 2023-07-03 23:45:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:02 --> Total execution time: 0.0559
+DEBUG - 2023-07-03 23:45:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> Total execution time: 0.0570
+DEBUG - 2023-07-03 23:45:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> Total execution time: 0.0551
+DEBUG - 2023-07-03 23:45:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> Total execution time: 0.0485
+DEBUG - 2023-07-03 23:45:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:02 --> Total execution time: 0.0446
+DEBUG - 2023-07-03 23:45:06 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:06 --> Total execution time: 0.0366
+DEBUG - 2023-07-03 23:45:06 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:06 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:06 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:06 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:06 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:06 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:06 --> Total execution time: 0.0345
+DEBUG - 2023-07-03 23:45:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:06 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:06 --> Total execution time: 0.0416
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:07 --> Total execution time: 0.0576
+DEBUG - 2023-07-03 23:45:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> Total execution time: 0.0599
+DEBUG - 2023-07-03 23:45:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:07 --> Total execution time: 0.0764
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:07 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> Total execution time: 0.0812
+DEBUG - 2023-07-03 23:45:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> Total execution time: 0.0463
+DEBUG - 2023-07-03 23:45:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> Total execution time: 0.0495
+DEBUG - 2023-07-03 23:45:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> Total execution time: 0.0508
+DEBUG - 2023-07-03 23:45:07 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> Total execution time: 0.0556
+DEBUG - 2023-07-03 23:45:07 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> Total execution time: 0.0584
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> Total execution time: 0.0549
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> Total execution time: 0.0519
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> Total execution time: 0.0488
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:07 --> Total execution time: 0.0452
+DEBUG - 2023-07-03 23:45:19 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:19 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:19 --> Total execution time: 0.0710
+DEBUG - 2023-07-03 23:45:19 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:19 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:19 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:19 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:19 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:19 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:19 --> Total execution time: 0.0337
+DEBUG - 2023-07-03 23:45:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:19 --> Total execution time: 0.0395
+DEBUG - 2023-07-03 23:45:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:19 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:19 --> Total execution time: 0.0508
+DEBUG - 2023-07-03 23:45:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:19 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:19 --> Total execution time: 0.0649
+DEBUG - 2023-07-03 23:45:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:19 --> Total execution time: 0.0783
+DEBUG - 2023-07-03 23:45:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:19 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:19 --> Total execution time: 0.0875
+DEBUG - 2023-07-03 23:45:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:19 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:19 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:19 --> Total execution time: 0.0597
+DEBUG - 2023-07-03 23:45:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:19 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:19 --> Total execution time: 0.0621
+DEBUG - 2023-07-03 23:45:20 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:20 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:20 --> Total execution time: 0.0376
+DEBUG - 2023-07-03 23:45:20 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:20 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:20 --> Total execution time: 0.0410
+DEBUG - 2023-07-03 23:45:20 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:20 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:20 --> Total execution time: 0.0469
+DEBUG - 2023-07-03 23:45:26 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:45:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:45:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:26 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:26 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:45:26 --> Total execution time: 0.0383
+DEBUG - 2023-07-03 23:50:01 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:50:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:50:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:50:01 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:50:01 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:50:01 --> Total execution time: 0.0306
+DEBUG - 2023-07-03 23:50:07 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:50:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:50:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:50:07 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:50:07 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:50:07 --> Total execution time: 0.0246
+DEBUG - 2023-07-03 23:50:16 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:50:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:50:16 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:50:16 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:50:16 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:50:16 --> Total execution time: 0.0438
+DEBUG - 2023-07-03 23:50:26 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:50:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:50:27 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:50:27 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:50:27 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:50:27 --> Total execution time: 0.0264
+DEBUG - 2023-07-03 23:50:32 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:50:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:50:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:50:32 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:50:32 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:50:32 --> Total execution time: 0.0268
+DEBUG - 2023-07-03 23:50:37 --> UTF-8 Support Enabled
+DEBUG - 2023-07-03 23:50:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2023-07-03 23:50:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:50:37 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:50:37 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2023-07-03 23:50:37 --> Total execution time: 0.0281

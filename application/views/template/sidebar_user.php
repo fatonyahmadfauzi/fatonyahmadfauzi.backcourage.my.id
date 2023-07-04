@@ -486,8 +486,8 @@
     <!-- Start Offcanvas Search Bar Section -->
     <div id="search" class="search-modal">
         <button type="button" class="close">×</button>
-        <form action="katalog_product/search" method="get">
-            <input type="search" name="keyword" placeholder="Produk apa yang ingin kamu cari?" />
+        <form action="<?php echo site_url('katalog_product') ?>" method="get">
+            <input type="search" name="search" placeholder="Produk apa yang ingin kamu cari?" />
             <button type="submit" class="btn btn-lg btn-golden">Search</button>
         </form>
     </div>

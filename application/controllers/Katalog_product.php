@@ -7,6 +7,7 @@ class Katalog_product extends CI_Controller{
         parent::__construct();
         $this->load->library('session');
         $this->load->library('form_validation');
+        $this->load->library('pagination');
         $this->load->model('Model_auth'); // Pastikan Model_auth telah dibuat dan dimuat
         $this->load->helper('url', 'form');
         $this->load->model('Product_model');
@@ -14,46 +15,89 @@ class Katalog_product extends CI_Controller{
 
     public function index()
     {
-        $totalProducts = $this->Product_model->getTotalProducts();
         $perPage = 9;
         $currentPage = $this->input->get('page') ? $this->input->get('page') : 1;
         $start = ($currentPage - 1) * $perPage;
 
-        // Mengambil parameter sort dari URL
-        $sort = $this->input->get('sort');
+        $sort = $this->input->get('sort') ? $this->input->get('sort') : 'default';
 
-        if ($sort === 'sortRating') {
-            $data['products'] = $this->Product_model->get_rating($start, $perPage);
-        } elseif ($sort === 'sortPopularity') {
-            $data['products'] = $this->Product_model->get_popularity($start, $perPage);
-        } elseif ($sort === 'sortLow') {
-            $data['products'] = $this->Product_model->get_lowprice($start, $perPage);
-        } elseif ($sort === 'sortHigh') {
-            $data['products'] = $this->Product_model->get_highprice($start, $perPage);
-        } elseif ($sort === 'sortName') {
-            $data['products'] = $this->Product_model->get_name($start, $perPage);
+        // Pencarian
+        $search = $this->input->get('search');
+        if (!empty($search)) {
+            $totalProducts = $this->Product_model->getTotalSearchProducts($search);
+            $data['products'] = $this->getSortedProducts($sort, $start, $perPage, $search); // Menggunakan $search sebagai argumen
+            $data['sort'] = 'search';
         } else {
-            $data['products'] = $this->Product_model->get_newness($start, $perPage);
+            $totalProducts = $this->Product_model->getTotalProducts();
+            $data['products'] = $this->getSortedProducts($sort, $start, $perPage);
+            $data['sort'] = $sort;
         }
 
         $data['totalProducts'] = $totalProducts;
         $data['currentPage'] = $currentPage;
         $data['perPage'] = $perPage;
 
-        // Memeriksa status login pengguna
+        $this->load->library('pagination');
+
+        if ($totalProducts > $perPage && $perPage > 0) {
+            $config['base_url'] = site_url('katalog_product');
+            $config['total_rows'] = $totalProducts;
+            $config['per_page'] = $perPage;
+            $config['use_page_numbers'] = true;
+            $config['query_string_segment'] = 'page';
+            $config['page_query_string'] = true;
+
+            $this->pagination->initialize($config);
+
+            $data['pagination'] = $this->pagination->create_links();
+        } else {
+            $data['pagination'] = '';
+        }
+
         if ($this->session->userdata('email')) {
             // Jika pengguna sudah login, gunakan template/sidebar_user
-            $role_id = $this->User_model->get_user_role_id($this->session->userdata('email'));
-            $template = ($role_id == 1) ? 'template/sidebar_admin' : 'template/sidebar_user';
-        } else {
-            // Jika pengguna belum login, gunakan template/sidebar default
-            $template = 'template/sidebar';
+            $user = $this->User_model->get_user_by_email($this->session->userdata('email'));
+            
+            if ($user) {
+                $role_id = $user['role_id'];
+
+                $this->load->view('template/header', $data);
+
+                if ($role_id == 1) {
+                    $this->load->view('template/sidebar_admin', $data);
+                } elseif ($role_id == 2) {
+                    $this->load->view('template/sidebar_user', $data);
+                }
+
+                $this->load->view('katalog_view', $data);
+                $this->load->view('template/footer', $data);
+                
+                return;
+            }
         }
 
         $this->load->view('template/header');
-        $this->load->view($template, $data);
+        $this->load->view('template/sidebar'); // Menggunakan variabel $sidebar
         $this->load->view('katalog_view', $data);
         $this->load->view('template/footer');
+    }
+
+    private function getSortedProducts($sort, $start, $perPage, $search = null)
+    {
+        switch ($sort) {
+            case 'sortRating':
+                return $search ? $this->Product_model->get_rating_search($search, $start, $perPage) : $this->Product_model->get_rating($start, $perPage);
+            case 'sortPopularity':
+                return $search ? $this->Product_model->get_popularity_search($search, $start, $perPage) : $this->Product_model->get_popularity($start, $perPage);
+            case 'sortLow':
+                return $search ? $this->Product_model->get_lowprice_search($search, $start, $perPage) : $this->Product_model->get_lowprice($start, $perPage);
+            case 'sortHigh':
+                return $search ? $this->Product_model->get_highprice_search($search, $start, $perPage) : $this->Product_model->get_highprice($start, $perPage);
+            case 'sortName':
+                return $search ? $this->Product_model->get_name_search($search, $start, $perPage) : $this->Product_model->get_name($start, $perPage);
+            default:
+                return $search ? $this->Product_model->get_newness_search($search, $start, $perPage) : $this->Product_model->get_newness($start, $perPage);
+        }
     }
 
     public function tambah_ke_keranjang($id)
@@ -70,7 +114,7 @@ class Katalog_product extends CI_Controller{
         );
 
         $this->cart->insert($data);
-        redirect('katalog_product');
+        redirect($_SERVER['HTTP_REFERER']); // Redirect ke halaman sebelumnya
     }
 
     public function detail_keranjang()
@@ -98,10 +142,10 @@ class Katalog_product extends CI_Controller{
         $this->load->view('template/footer');
     }
 
-    public function hapus_keranjang($product_id) 
-    { 
+    public function hapus_keranjang($product_id)
+    {
         $this->cart->remove($product_id);
-        redirect('katalog_product/detail_keranjang');
+        redirect($_SERVER['HTTP_REFERER']); // Redirect ke halaman sebelumnya
     } 
 
     public function pembayaran()
@@ -163,42 +207,6 @@ class Katalog_product extends CI_Controller{
             $this->load->view('template/footer');
         }
         else{ echo"Maaf, Pesanan anda gagal diproses";}
-    }
-
-    function search(){
-        $keyword = $this->input->get('keyword');
-        $this->load->model('Product_model');
-
-        $result = $this->Product_model->cari($keyword);
-        $data['result'] = $result;
-
-        // Memeriksa status login pengguna
-        if ($this->session->userdata('email')) {
-            // Jika pengguna sudah login, gunakan template/sidebar_user
-            $user = $this->User_model->get_user_by_email($this->session->userdata('email'));
-            
-            if ($user) {
-                $role_id = $user['role_id'];
-
-                $this->load->view('template/header', $data);
-
-                if ($role_id == 1) {
-                    $this->load->view('template/sidebar_admin', $data);
-                } elseif ($role_id == 2) {
-                    $this->load->view('template/sidebar_user', $data);
-                }
-
-                $this->load->view('search/hasil_pencarian_user', $data);
-                $this->load->view('template/footer', $data);
-                
-                return;
-            }
-        }
-
-        $this->load->view('template/header');
-        $this->load->view('template/sidebar');
-        $this->load->view('search/hasil_pencarian_user',$data);
-        $this->load->view('template/footer');
     }
 }
 ?>
